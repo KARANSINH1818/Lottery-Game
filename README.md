@@ -20,11 +20,6 @@ Clean UI. Smooth animations. Modern React Hooks.
 
 ---
 
-## 🚀 Live Deployment
-
-🔗 https://todo-app-seven-silk-13.vercel.app/
----
-
 ## 🚀 Features
 
 - 🎟 Random 5-digit lottery ticket generation
