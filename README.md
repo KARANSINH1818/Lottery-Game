@@ -1,4 +1,4 @@
-# 🎰 React Lottery Game -  with Best Score Tracking (React + MUI)
+# 🎰 Lottery Game -  with Best Score Tracking (React + MUI)
 
 [![React](https://img.shields.io/badge/React-18-blue?logo=react)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-Build%20Tool-purple?logo=vite)](https://vitejs.dev/)
